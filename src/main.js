@@ -1,5 +1,12 @@
 import systemsData from './data/systems.json';
-import { filterSystems, computeExpansionRects } from './lib/gallery-core.mjs';
+import {
+  filterSystems,
+  computeExpansionRects,
+  getHostname,
+  resolvePreviewConfig,
+} from './lib/gallery-core.mjs';
+
+const NAVIGATION_FALLBACK_TIMEOUT_MS = 520;
 
 const gridEl = document.getElementById('gallery-grid');
 const searchInput = document.getElementById('search-input');
@@ -11,51 +18,28 @@ const zoomStatus = document.getElementById('zoom-status');
 
 const activeState = { query: '', tag: 'all', isNavigating: false };
 
-/**
- * Extracts and sanitizes hostname from URL for display.
- * @param {string} url
- * @returns {string}
- */
-function getHostname(url) {
-  try {
-    return new URL(url).hostname.replace(/^www\./, '');
-  } catch {
-    return url;
-  }
+function escapeHtml(text) {
+  return String(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
 }
 
-/**
- * Determines primary and fallback image sources for a design system screenshot.
- * @param {object} system
- * @returns {{ primary: string, fallback: string }}
- */
-function getScreenshotSources(system) {
-  const localSrc = system.screenshot;
-  const remoteFallback = `https://s0.wordpress.com/mshots/v1/${encodeURIComponent(system.url)}?w=1280&h=800`;
-  return {
-    primary: system.hasScreenshot ? localSrc : remoteFallback,
-    fallback: remoteFallback,
-  };
+function renderPosterMarkup(domain, title) {
+  return `<div class="fallback-poster"><span class="fallback-domain">${escapeHtml(domain)}</span><span class="fallback-title">${escapeHtml(title)}</span></div>`;
 }
 
-/**
- * Generates preview image markup with fallback poster handling on load error.
- * @param {object} system
- * @returns {string}
- */
 function createPreviewMarkup(system) {
-  const { primary, fallback } = getScreenshotSources(system);
-  const domain = getHostname(system.url);
-  const title = system.name.replace(/'/g, '&#39;');
+  const preview = resolvePreviewConfig(system);
+  if (preview.type === 'poster') {
+    return renderPosterMarkup(preview.domain, preview.title);
+  }
 
-  return `<img src="${primary}" alt="${system.name} preview" loading="lazy" data-fallback="${fallback}" onerror="if (this.src !== this.dataset.fallback) { this.src = this.dataset.fallback; } else { this.parentElement.innerHTML = '<div class=\\'fallback-poster\\'><span class=\\'fallback-domain\\'>${domain}</span><span class=\\'fallback-title\\'>${title}</span></div>'; }" />`;
+  return `<img src="${escapeHtml(preview.src)}" alt="${escapeHtml(preview.title)} preview" loading="lazy" data-domain="${escapeHtml(preview.domain)}" data-title="${escapeHtml(preview.title)}" />`;
 }
 
-/**
- * Generates badge tag elements for system capabilities.
- * @param {object} system
- * @returns {string}
- */
 function renderCardTags(system) {
   const badges = [];
   if (system.tags?.components) badges.push('<span class="tag">Components</span>');
@@ -65,39 +49,28 @@ function renderCardTags(system) {
   return badges.join('');
 }
 
-/**
- * Generates HTML markup for a single design system card.
- * @param {object} system
- * @returns {string}
- */
 function renderCard(system) {
   const domain = getHostname(system.url);
   const tagsMarkup = renderCardTags(system);
 
   return `
-    <article class="card" tabindex="0" role="link" aria-label="Open ${system.name}" data-slug="${system.slug}">
+    <article class="card" tabindex="0" role="link" aria-label="Open ${escapeHtml(system.name)}" data-slug="${escapeHtml(system.slug)}">
       <div class="card-preview">${createPreviewMarkup(system)}</div>
       <div class="card-body">
-        <div class="card-header"><h2 class="card-title">${system.name}</h2></div>
-        <span class="card-domain">${domain}</span>
+        <div class="card-header"><h2 class="card-title">${escapeHtml(system.name)}</h2></div>
+        <span class="card-domain">${escapeHtml(domain)}</span>
         <div class="card-tags">${tagsMarkup}</div>
       </div>
     </article>
   `;
 }
 
-/**
- * Renders the gallery grid based on current search query and tag filter.
- */
 function renderGallery() {
   const filtered = filterSystems(systemsData, activeState);
   countLabel.textContent = `Showing ${filtered.length} of ${systemsData.length} design systems`;
   gridEl.innerHTML = filtered.map(renderCard).join('');
 }
 
-/**
- * Resets the zoom overlay and navigation state (e.g., after BFCache pageshow).
- */
 function resetZoomOverlay() {
   activeState.isNavigating = false;
   zoomOverlay.hidden = true;
@@ -105,11 +78,6 @@ function resetZoomOverlay() {
   zoomCard.removeAttribute('style');
 }
 
-/**
- * Executes FLIP zoom animation from card preview to fullscreen and navigates.
- * @param {HTMLElement} cardEl
- * @param {object} system
- */
 function expandAndNavigate(cardEl, system) {
   if (activeState.isNavigating) return;
   activeState.isNavigating = true;
@@ -126,23 +94,35 @@ function expandAndNavigate(cardEl, system) {
   zoomStatus.textContent = `Opening ${system.name} (${getHostname(system.url)})...`;
   zoomOverlay.hidden = false;
 
-  // Force layout reflow before triggering transition
   zoomCard.getBoundingClientRect();
 
   requestAnimationFrame(() => {
     Object.assign(zoomCard.style, to);
   });
 
-  let navigated = false;
+  let hasNavigated = false;
   const go = () => {
-    if (navigated) return;
-    navigated = true;
+    if (hasNavigated) return;
+    hasNavigated = true;
     window.location.assign(system.url);
   };
 
   zoomCard.addEventListener('transitionend', go, { once: true });
-  setTimeout(go, 520);
+  setTimeout(go, NAVIGATION_FALLBACK_TIMEOUT_MS);
 }
+
+// Replace broken local image with fallback poster using event capturing
+gridEl.addEventListener(
+  'error',
+  (event) => {
+    const imgEl = event.target;
+    if (imgEl.tagName !== 'IMG' || !imgEl.parentElement) return;
+    const domain = imgEl.dataset.domain || '';
+    const title = imgEl.dataset.title || '';
+    imgEl.parentElement.innerHTML = renderPosterMarkup(domain, title);
+  },
+  true
+);
 
 gridEl.addEventListener('click', (event) => {
   const cardEl = event.target.closest('.card');
@@ -166,17 +146,17 @@ searchInput.addEventListener('input', (event) => {
 });
 
 pillsContainer.addEventListener('click', (event) => {
-  const btn = event.target.closest('.pill');
-  if (!btn) return;
+  const pillButton = event.target.closest('.pill');
+  if (!pillButton) return;
   pillsContainer.querySelectorAll('.pill').forEach((el) => el.classList.remove('active'));
-  btn.classList.add('active');
-  activeState.tag = btn.dataset.tag;
+  pillButton.classList.add('active');
+  activeState.tag = pillButton.dataset.tag;
   renderGallery();
 });
 
-// Reset fullscreen overlay when returning via browser Back button (BFCache)
 window.addEventListener('pageshow', () => {
   resetZoomOverlay();
 });
 
 renderGallery();
+

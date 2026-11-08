@@ -1,19 +1,28 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { filterSystems, computeExpansionRects } from '../src/lib/gallery-core.mjs';
+import {
+  filterSystems,
+  computeExpansionRects,
+  getHostname,
+  resolvePreviewConfig,
+} from '../src/lib/gallery-core.mjs';
 
 const MOCK_SYSTEMS = [
   {
     slug: 'adobe-spectrum',
     name: 'Adobe Spectrum',
     url: 'https://spectrum.adobe.com',
+    screenshot: '/screenshots/adobe-spectrum.webp',
+    hasScreenshot: true,
     tags: { components: true, voiceAndTone: true, designersKit: true },
     sourceUrl: 'https://github.com/adobe/react-spectrum',
   },
   {
     slug: 'mailchimp-content',
     name: 'Mailchimp Content Styleguide',
-    url: 'https://styleguide.mailchimp.com/',
+    url: 'https://www.styleguide.mailchimp.com/',
+    screenshot: '/screenshots/mailchimp-content.webp',
+    hasScreenshot: false,
     tags: { components: false, voiceAndTone: true, designersKit: false },
     sourceUrl: null,
   },
@@ -49,3 +58,27 @@ test('computeExpansionRects returns exact pixel start box and full-viewport targ
     },
   });
 });
+
+test('getHostname strips www prefix and handles invalid URLs gracefully', () => {
+  assert.equal(getHostname('https://www.carbondesignsystem.com/'), 'carbondesignsystem.com');
+  assert.equal(getHostname('not-a-valid-url'), 'not-a-valid-url');
+});
+
+test('resolvePreviewConfig uses local screenshot when available and poster when missing (never mshots)', () => {
+  const withImage = resolvePreviewConfig(MOCK_SYSTEMS[0]);
+  assert.deepEqual(withImage, {
+    type: 'image',
+    src: '/screenshots/adobe-spectrum.webp',
+    domain: 'spectrum.adobe.com',
+    title: 'Adobe Spectrum',
+  });
+
+  const withoutImage = resolvePreviewConfig(MOCK_SYSTEMS[1]);
+  assert.deepEqual(withoutImage, {
+    type: 'poster',
+    src: null,
+    domain: 'styleguide.mailchimp.com',
+    title: 'Mailchimp Content Styleguide',
+  });
+});
+
