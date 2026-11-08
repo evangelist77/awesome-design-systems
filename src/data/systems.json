@@ -81,7 +81,7 @@
     },
     "sourceUrl": "https://github.com/aws-amplify/amplify-ui/",
     "screenshot": "/screenshots/amplify-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "appear-here-styleguide",
@@ -179,7 +179,7 @@
     },
     "sourceUrl": "https://bitbucket.org/atlassian/atlassian-frontend-mirror/",
     "screenshot": "/screenshots/atlassian-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "aurora-government-of-canada",
@@ -193,7 +193,7 @@
     },
     "sourceUrl": "https://github.com/gctools-outilsgc/design-system",
     "screenshot": "/screenshots/aurora-government-of-canada.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "autoguru-overdrive",
@@ -221,7 +221,7 @@
     },
     "sourceUrl": "https://github.com/cloudscape-design/components",
     "screenshot": "/screenshots/aws-cloudscape-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "backpack-skyscanner",
@@ -249,7 +249,7 @@
     },
     "sourceUrl": "https://github.com/moroshko/basis",
     "screenshot": "/screenshots/basis-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "bbc-gel-global-experience-language",
@@ -277,7 +277,7 @@
     },
     "sourceUrl": "https://github.com/buildo/bento-design-system",
     "screenshot": "/screenshots/bento-ds.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "blip",
@@ -291,7 +291,7 @@
     },
     "sourceUrl": "https://github.com/takenet/blip-ds",
     "screenshot": "/screenshots/blip.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "blueprint",
@@ -305,7 +305,7 @@
     },
     "sourceUrl": "https://github.com/palantir/blueprint",
     "screenshot": "/screenshots/blueprint.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "bold-bridge-design-system",
@@ -319,7 +319,7 @@
     },
     "sourceUrl": "https://github.com/laboratoriobridge/bold",
     "screenshot": "/screenshots/bold-bridge-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "bolt-design-system",
@@ -333,7 +333,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/bolt-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "braid-design-system",
@@ -347,7 +347,7 @@
     },
     "sourceUrl": "https://github.com/seek-oss/braid-design-system",
     "screenshot": "/screenshots/braid-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "british-gas-nucleus",
@@ -389,7 +389,7 @@
     },
     "sourceUrl": "https://github.com/buzzfeed/solid",
     "screenshot": "/screenshots/buzzfeed-solid.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "buzzvil-design-system",
@@ -403,7 +403,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/buzzvil-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "ca-technologies-mineral-ui",
@@ -417,7 +417,7 @@
     },
     "sourceUrl": "https://github.com/mineral-ui/mineral-ui",
     "screenshot": "/screenshots/ca-technologies-mineral-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "cedar",
@@ -431,7 +431,7 @@
     },
     "sourceUrl": "https://github.com/rei/rei-cedar",
     "screenshot": "/screenshots/cedar.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "chakra-ui",
@@ -445,7 +445,7 @@
     },
     "sourceUrl": "https://github.com/chakra-ui/chakra-ui",
     "screenshot": "/screenshots/chakra-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "city-of-boston-fleet",
@@ -459,7 +459,7 @@
     },
     "sourceUrl": "https://github.com/CityOfBoston/digital",
     "screenshot": "/screenshots/city-of-boston-fleet.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "cloudflare-kumo",
@@ -473,7 +473,7 @@
     },
     "sourceUrl": "https://github.com/cloudflare/kumo",
     "screenshot": "/screenshots/cloudflare-kumo.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "co-op-experience-library",
@@ -487,7 +487,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/co-op-experience-library.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "contentful-forma-36",
@@ -501,7 +501,7 @@
     },
     "sourceUrl": "https://github.com/contentful/forma-36",
     "screenshot": "/screenshots/contentful-forma-36.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "daisyui",
@@ -515,7 +515,7 @@
     },
     "sourceUrl": "https://github.com/saadeghi/daisyui",
     "screenshot": "/screenshots/daisyui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "decentraland-ui",
@@ -543,7 +543,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/duet.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "ebay-skin",
@@ -557,7 +557,7 @@
     },
     "sourceUrl": "https://github.com/eBay/evo-web",
     "screenshot": "/screenshots/ebay-skin.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "elastic-ui-framework",
@@ -571,7 +571,7 @@
     },
     "sourceUrl": "https://github.com/elastic/eui",
     "screenshot": "/screenshots/elastic-ui-framework.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "engie-fluid-design-system",
@@ -585,7 +585,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/engie-fluid-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "enel",
@@ -599,7 +599,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/enel.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "estonia-country-design-guidelines",
@@ -613,7 +613,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/estonia-country-design-guidelines.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "evergreen",
@@ -627,7 +627,7 @@
     },
     "sourceUrl": "https://github.com/segmentio/evergreen",
     "screenshot": "/screenshots/evergreen.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "finland-toolbox",
@@ -641,7 +641,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/finland-toolbox.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "firefox-acorn-design-system",
@@ -655,7 +655,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/firefox-acorn-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "flowbite-design-system",
@@ -683,7 +683,7 @@
     },
     "sourceUrl": "https://github.com/microsoft/fluentui",
     "screenshot": "/screenshots/fluent-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "foundation",
@@ -697,7 +697,7 @@
     },
     "sourceUrl": "https://github.com/foundation/foundation-sites",
     "screenshot": "/screenshots/foundation.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "foyer-design-system",
@@ -711,7 +711,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/foyer-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "french-government-design-system",
@@ -753,7 +753,7 @@
     },
     "sourceUrl": "https://github.com/primer/",
     "screenshot": "/screenshots/github-primer.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "gitlab-design-system-pajamas",
@@ -767,7 +767,7 @@
     },
     "sourceUrl": "https://gitlab.com/gitlab-org/design.gitlab.com",
     "screenshot": "/screenshots/gitlab-design-system-pajamas.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "goodbarber-design-system",
@@ -781,7 +781,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/goodbarber-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "google-material-design",
@@ -795,7 +795,7 @@
     },
     "sourceUrl": "https://github.com/material-components/material-components",
     "screenshot": "/screenshots/google-material-design.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "gov-uk-design-system",
@@ -809,7 +809,7 @@
     },
     "sourceUrl": "https://github.com/alphagov/govuk-design-system",
     "screenshot": "/screenshots/gov-uk-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "gympass-yoga",
@@ -823,7 +823,7 @@
     },
     "sourceUrl": "https://github.com/gympass/yoga",
     "screenshot": "/screenshots/gympass-yoga.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "hashicorp-helios",
@@ -851,7 +851,7 @@
     },
     "sourceUrl": "https://github.com/hipuku/haus",
     "screenshot": "/screenshots/haus.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "heroku-purple3",
@@ -865,7 +865,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/heroku-purple3.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "heroui",
@@ -879,7 +879,7 @@
     },
     "sourceUrl": "https://github.com/heroui-inc/heroui",
     "screenshot": "/screenshots/heroui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "hewlett-packard-grommet",
@@ -907,7 +907,7 @@
     },
     "sourceUrl": "https://github.com/ibm/carbon-components",
     "screenshot": "/screenshots/ibm-carbon.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "ibm-design-language",
@@ -935,7 +935,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/ibm-northstar.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "intuit-harmony",
@@ -963,7 +963,7 @@
     },
     "sourceUrl": "https://github.com/italia",
     "screenshot": "/screenshots/italia-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "jb-design-system",
@@ -977,7 +977,7 @@
     },
     "sourceUrl": "https://javadbat.github.io/design-system",
     "screenshot": "/screenshots/jb-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "jetbrains-ring-ui",
@@ -991,7 +991,7 @@
     },
     "sourceUrl": "https://github.com/JetBrains/ring-ui",
     "screenshot": "/screenshots/jetbrains-ring-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "jobber",
@@ -1019,7 +1019,7 @@
     },
     "sourceUrl": "https://github.com/justeattakeaway/pie",
     "screenshot": "/screenshots/just-eat-takeaway-com-pie-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "kaizen",
@@ -1033,7 +1033,7 @@
     },
     "sourceUrl": "https://github.com/cultureamp/kaizen-design-system",
     "screenshot": "/screenshots/kaizen.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "kolibri",
@@ -1047,7 +1047,7 @@
     },
     "sourceUrl": "https://github.com/public-ui/kolibri/",
     "screenshot": "/screenshots/kolibri.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "kontur",
@@ -1061,7 +1061,7 @@
     },
     "sourceUrl": "https://github.com/skbkontur/retail-ui/",
     "screenshot": "/screenshots/kontur.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "korea-design-system",
@@ -1089,7 +1089,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/mail-ru-group-paradigm.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "mailchimp-content-styleguide",
@@ -1103,7 +1103,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/mailchimp-content-styleguide.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "mantine",
@@ -1117,7 +1117,7 @@
     },
     "sourceUrl": "https://github.com/mantinedev/mantine",
     "screenshot": "/screenshots/mantine.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "marvel-styleguide",
@@ -1131,7 +1131,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/marvel-styleguide.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "material-minimal",
@@ -1145,7 +1145,7 @@
     },
     "sourceUrl": "https://github.com/mdbootstrap/mdb-ui-kit",
     "screenshot": "/screenshots/material-minimal.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "materialize-css",
@@ -1159,7 +1159,7 @@
     },
     "sourceUrl": "https://github.com/Dogfalo/materialize",
     "screenshot": "/screenshots/materialize-css.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "mesh-design-system",
@@ -1173,7 +1173,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/mesh-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "meta-astryx",
@@ -1187,7 +1187,7 @@
     },
     "sourceUrl": "https://github.com/facebook/astryx",
     "screenshot": "/screenshots/meta-astryx.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "microsoft-fluent",
@@ -1215,7 +1215,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/mixpanel-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "mongodb-design-system",
@@ -1229,7 +1229,7 @@
     },
     "sourceUrl": "https://github.com/mongodb/leafygreen-ui",
     "screenshot": "/screenshots/mongodb-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "monzo-tone-of-voice",
@@ -1243,7 +1243,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/monzo-tone-of-voice.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "morningstar-design-system",
@@ -1257,7 +1257,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/morningstar-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "mozilla-protocol",
@@ -1271,7 +1271,7 @@
     },
     "sourceUrl": "https://github.com/mozilla/protocol",
     "screenshot": "/screenshots/mozilla-protocol.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "mui-base-ui",
@@ -1285,7 +1285,7 @@
     },
     "sourceUrl": "https://github.com/mui/base-ui",
     "screenshot": "/screenshots/mui-base-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "mui-material-ui",
@@ -1299,7 +1299,7 @@
     },
     "sourceUrl": "https://github.com/mui/material-ui",
     "screenshot": "/screenshots/mui-material-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "nasa-web-design-system",
@@ -1313,7 +1313,7 @@
     },
     "sourceUrl": "https://github.com/nasa/nasawds",
     "screenshot": "/screenshots/nasa-web-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "nationbuilder-radius",
@@ -1327,7 +1327,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/nationbuilder-radius.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "nhs-uk-service-manual",
@@ -1341,7 +1341,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/nhs-uk-service-manual.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "nordhealth",
@@ -1355,7 +1355,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/nordhealth.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "new-york-state-design-system",
@@ -1369,7 +1369,7 @@
     },
     "sourceUrl": "https://github.com/ITS-HCD/nysds",
     "screenshot": "/screenshots/new-york-state-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "nordnet",
@@ -1397,7 +1397,7 @@
     },
     "sourceUrl": "https://github.com/NVIDIA/elements",
     "screenshot": "/screenshots/nvidia-elements-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "okta-odyssey-design-system",
@@ -1411,7 +1411,7 @@
     },
     "sourceUrl": "https://github.com/okta/odyssey",
     "screenshot": "/screenshots/okta-odyssey-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "ontario-design-system",
@@ -1425,7 +1425,7 @@
     },
     "sourceUrl": "https://designsystem.ontario.ca/docs/documentation/release-notes.html#latest",
     "screenshot": "/screenshots/ontario-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "oracle-redwood",
@@ -1439,7 +1439,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/oracle-redwood.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "persona-design-system",
@@ -1453,7 +1453,7 @@
     },
     "sourceUrl": "https://github.com/privy-open-source/design-system",
     "screenshot": "/screenshots/persona-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "pharos-jstor-s-design-system",
@@ -1467,7 +1467,7 @@
     },
     "sourceUrl": "https://github.com/ithaka/pharos",
     "screenshot": "/screenshots/pharos-jstor-s-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "pinterest-gestalt",
@@ -1481,7 +1481,7 @@
     },
     "sourceUrl": "https://github.com/pinterest/gestalt",
     "screenshot": "/screenshots/pinterest-gestalt.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "pivotal",
@@ -1495,7 +1495,7 @@
     },
     "sourceUrl": "https://github.com/pivotal-cf/pivotal-ui",
     "screenshot": "/screenshots/pivotal.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "pluralsight-design-system",
@@ -1509,7 +1509,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/pluralsight-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "porsche-design-system",
@@ -1523,7 +1523,7 @@
     },
     "sourceUrl": "https://github.com/porsche-design-system/porsche-design-system",
     "screenshot": "/screenshots/porsche-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "priceline-design-system",
@@ -1537,7 +1537,7 @@
     },
     "sourceUrl": "https://github.com/priceline/design-system",
     "screenshot": "/screenshots/priceline-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "pusher-chameleon",
@@ -1551,7 +1551,7 @@
     },
     "sourceUrl": "https://github.com/pusher/chameleon",
     "screenshot": "/screenshots/pusher-chameleon.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "radix",
@@ -1565,7 +1565,7 @@
     },
     "sourceUrl": "https://github.com/radix-ui",
     "screenshot": "/screenshots/radix.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "rambler",
@@ -1579,7 +1579,7 @@
     },
     "sourceUrl": "https://github.com/rambler-digital-solutions/rambler-ui",
     "screenshot": "/screenshots/rambler.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "reshaped",
@@ -1593,7 +1593,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/reshaped.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "salesforce-lightning-design-system",
@@ -1607,7 +1607,7 @@
     },
     "sourceUrl": "https://github.com/salesforce-ux/design-system",
     "screenshot": "/screenshots/salesforce-lightning-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "sage-by-kajabi",
@@ -1621,7 +1621,7 @@
     },
     "sourceUrl": "https://github.com/Kajabi/sage-lib",
     "screenshot": "/screenshots/sage-by-kajabi.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "sap-fiori",
@@ -1691,7 +1691,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/seeds.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "semi-design",
@@ -1705,7 +1705,7 @@
     },
     "sourceUrl": "https://github.com/DouyinFE/semi-design",
     "screenshot": "/screenshots/semi-design.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "semrush-intergalactic-design-system",
@@ -1719,7 +1719,7 @@
     },
     "sourceUrl": "https://github.com/semrush/intergalactic",
     "screenshot": "/screenshots/semrush-intergalactic-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "shoelace",
@@ -1733,7 +1733,7 @@
     },
     "sourceUrl": "https://github.com/shoelace-style/shoelace",
     "screenshot": "/screenshots/shoelace.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "shopify-polaris",
@@ -1761,7 +1761,7 @@
     },
     "sourceUrl": "https://github.com/shadcn-ui",
     "screenshot": "/screenshots/shadcn-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "siemens-ix",
@@ -1775,7 +1775,7 @@
     },
     "sourceUrl": "https://github.com/siemens/ix",
     "screenshot": "/screenshots/siemens-ix.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "singapore-government-design-system",
@@ -1789,7 +1789,7 @@
     },
     "sourceUrl": "https://github.com/govtechsg/sgds",
     "screenshot": "/screenshots/singapore-government-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "stacks-stack-overflow",
@@ -1803,7 +1803,7 @@
     },
     "sourceUrl": "https://github.com/StackExchange/Stacks",
     "screenshot": "/screenshots/stacks-stack-overflow.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "strapi-design-system",
@@ -1817,7 +1817,7 @@
     },
     "sourceUrl": "https://github.com/strapi/design-system",
     "screenshot": "/screenshots/strapi-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "teambition-clarity-design",
@@ -1831,7 +1831,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/teambition-clarity-design.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "telef-nica-m-stica",
@@ -1845,7 +1845,7 @@
     },
     "sourceUrl": "https://github.com/Telefonica/mistica",
     "screenshot": "/screenshots/telef-nica-m-stica.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "twilio-paste",
@@ -1873,7 +1873,7 @@
     },
     "sourceUrl": "https://github.com/uber-web/baseui",
     "screenshot": "/screenshots/uber-s-base-web.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "ubuntu-vanilla-framework",
@@ -1887,7 +1887,7 @@
     },
     "sourceUrl": "https://github.com/canonical-web-and-design/vanilla-framework",
     "screenshot": "/screenshots/ubuntu-vanilla-framework.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "uiverse",
@@ -1915,7 +1915,7 @@
     },
     "sourceUrl": "https://github.com/untitleduico/react/",
     "screenshot": "/screenshots/untitled-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "usva",
@@ -1929,7 +1929,7 @@
     },
     "sourceUrl": "https://github.com/matt-pasek/usva",
     "screenshot": "/screenshots/usva.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "u-s-web-design-standards",
@@ -1943,7 +1943,7 @@
     },
     "sourceUrl": "https://github.com/uswds/uswds",
     "screenshot": "/screenshots/u-s-web-design-standards.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "u-s-cms-gov-design-system",
@@ -1957,7 +1957,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/u-s-cms-gov-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "vibe",
@@ -1971,7 +1971,7 @@
     },
     "sourceUrl": "https://github.com/mondaycom/vibe",
     "screenshot": "/screenshots/vibe.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "vtex-styleguide",
@@ -1985,7 +1985,7 @@
     },
     "sourceUrl": "https://github.com/vtex/styleguide",
     "screenshot": "/screenshots/vtex-styleguide.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "vue-design-system",
@@ -1999,7 +1999,7 @@
     },
     "sourceUrl": "https://github.com/viljamis/vue-design-system",
     "screenshot": "/screenshots/vue-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "ray-by-wework",
@@ -2013,7 +2013,7 @@
     },
     "sourceUrl": "https://github.com/wework/ray",
     "screenshot": "/screenshots/ray-by-wework.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "welcome-ui",
@@ -2027,7 +2027,7 @@
     },
     "sourceUrl": "https://github.com/WTTJ/welcome-ui",
     "screenshot": "/screenshots/welcome-ui.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "west-midlands-network-design-system",
@@ -2041,7 +2041,7 @@
     },
     "sourceUrl": "https://github.com/wmcadigital/wmn-design-system",
     "screenshot": "/screenshots/west-midlands-network-design-system.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "wix-style-react",
@@ -2055,7 +2055,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/wix-style-react.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "vercel",
@@ -2069,7 +2069,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/vercel.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "workday-canvas",
@@ -2083,7 +2083,7 @@
     },
     "sourceUrl": "https://github.com/Workday/canvas-kit",
     "screenshot": "/screenshots/workday-canvas.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "yelp-styleguide",
@@ -2097,7 +2097,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/yelp-styleguide.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "zendesk-garden",
@@ -2111,6 +2111,6 @@
     },
     "sourceUrl": "https://github.com/zendeskgarden",
     "screenshot": "/screenshots/zendesk-garden.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   }
 ]
