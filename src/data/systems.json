@@ -11,7 +11,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/aalto-university.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "adobe-spectrum",
@@ -25,7 +25,7 @@
     },
     "sourceUrl": "https://github.com/adobe/react-spectrum",
     "screenshot": "/screenshots/adobe-spectrum.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "adjust-atlas",
@@ -39,7 +39,7 @@
     },
     "sourceUrl": null,
     "screenshot": "/screenshots/adjust-atlas.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "alaska-airlines",
@@ -67,7 +67,7 @@
     },
     "sourceUrl": "https://github.com/ant-design/ant-design/",
     "screenshot": "/screenshots/alibaba-ant-design.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "amplify-ui",
@@ -95,7 +95,7 @@
     },
     "sourceUrl": "https://github.com/appearhere/bloom",
     "screenshot": "/screenshots/appear-here-styleguide.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "apple-developer-design-guidelines",
@@ -123,7 +123,7 @@
     },
     "sourceUrl": "https://github.com/dravensoft-dev/arena",
     "screenshot": "/screenshots/arena-by-dravensoft.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "artsy-palette",
@@ -137,7 +137,7 @@
     },
     "sourceUrl": "https://github.com/artsy/palette",
     "screenshot": "/screenshots/artsy-palette.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "astro-uxds",
@@ -151,7 +151,7 @@
     },
     "sourceUrl": "https://github.com/RocketCommunicationsInc/astro",
     "screenshot": "/screenshots/astro-uxds.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "at-uikit",
@@ -165,7 +165,7 @@
     },
     "sourceUrl": "https://github.com/at-ui/at-ui",
     "screenshot": "/screenshots/at-uikit.webp",
-    "hasScreenshot": false
+    "hasScreenshot": true
   },
   {
     "slug": "atlassian-design-system",
