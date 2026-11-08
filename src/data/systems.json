@@ -1,0 +1,2116 @@
+[
+  {
+    "slug": "aalto-university",
+    "name": "Aalto University",
+    "url": "https://brand.aalto.fi/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/aalto-university.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "adobe-spectrum",
+    "name": "Adobe Spectrum",
+    "url": "https://spectrum.adobe.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/adobe/react-spectrum",
+    "screenshot": "/screenshots/adobe-spectrum.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "adjust-atlas",
+    "name": "Adjust Atlas",
+    "url": "https://atlas.adeven.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/adjust-atlas.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "alaska-airlines",
+    "name": "Alaska Airlines",
+    "url": "https://auro.alaskaair.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/AlaskaAirlines",
+    "screenshot": "/screenshots/alaska-airlines.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "alibaba-ant-design",
+    "name": "Alibaba Ant Design",
+    "url": "https://ant.design",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/ant-design/ant-design/",
+    "screenshot": "/screenshots/alibaba-ant-design.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "amplify-ui",
+    "name": "Amplify UI",
+    "url": "https://ui.docs.amplify.aws/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/aws-amplify/amplify-ui/",
+    "screenshot": "/screenshots/amplify-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "appear-here-styleguide",
+    "name": "Appear Here Styleguide",
+    "url": "https://bloom.appearhere.co.uk/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/appearhere/bloom",
+    "screenshot": "/screenshots/appear-here-styleguide.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "apple-developer-design-guidelines",
+    "name": "Apple Developer Design Guidelines",
+    "url": "https://developer.apple.com/design/",
+    "note": "",
+    "tags": {
+      "components": false,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/apple-developer-design-guidelines.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "arena-by-dravensoft",
+    "name": "Arena by Dravensoft",
+    "url": "https://arena.dravensoft.org",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/dravensoft-dev/arena",
+    "screenshot": "/screenshots/arena-by-dravensoft.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "artsy-palette",
+    "name": "Artsy Palette",
+    "url": "https://palette.artsy.net/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/artsy/palette",
+    "screenshot": "/screenshots/artsy-palette.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "astro-uxds",
+    "name": "Astro UXDS",
+    "url": "https://astrouxds.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/RocketCommunicationsInc/astro",
+    "screenshot": "/screenshots/astro-uxds.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "at-uikit",
+    "name": "AT UIKIT",
+    "url": "https://at-ui.github.io/at-ui/#/en",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/at-ui/at-ui",
+    "screenshot": "/screenshots/at-uikit.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "atlassian-design-system",
+    "name": "Atlassian Design System",
+    "url": "https://atlassian.design",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://bitbucket.org/atlassian/atlassian-frontend-mirror/",
+    "screenshot": "/screenshots/atlassian-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "aurora-government-of-canada",
+    "name": "Aurora (Government of Canada)",
+    "url": "https://design.gccollab.ca/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/gctools-outilsgc/design-system",
+    "screenshot": "/screenshots/aurora-government-of-canada.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "autoguru-overdrive",
+    "name": "AutoGuru Overdrive",
+    "url": "http://overdrive.autoguru.io/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/autoguru-au/overdrive",
+    "screenshot": "/screenshots/autoguru-overdrive.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "aws-cloudscape-design-system",
+    "name": "AWS Cloudscape Design System",
+    "url": "https://cloudscape.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/cloudscape-design/components",
+    "screenshot": "/screenshots/aws-cloudscape-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "backpack-skyscanner",
+    "name": "Backpack (Skyscanner)",
+    "url": "https://skyscanner.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/skyscanner/backpack",
+    "screenshot": "/screenshots/backpack-skyscanner.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "basis-design-system",
+    "name": "Basis Design System",
+    "url": "https://basis.now.sh",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/moroshko/basis",
+    "screenshot": "/screenshots/basis-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "bbc-gel-global-experience-language",
+    "name": "BBC GEL (Global Experience Language)",
+    "url": "https://www.bbc.co.uk/gel",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/bbc-gel-global-experience-language.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "bento-ds",
+    "name": "Bento DS",
+    "url": "https://bento-ds.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/buildo/bento-design-system",
+    "screenshot": "/screenshots/bento-ds.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "blip",
+    "name": "BLiP",
+    "url": "https://takenet.github.io/blip-ds/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/takenet/blip-ds",
+    "screenshot": "/screenshots/blip.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "blueprint",
+    "name": "Blueprint",
+    "url": "https://blueprintjs.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/palantir/blueprint",
+    "screenshot": "/screenshots/blueprint.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "bold-bridge-design-system",
+    "name": "Bold (Bridge Design System)",
+    "url": "https://bold.bridge.ufsc.tech/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/laboratoriobridge/bold",
+    "screenshot": "/screenshots/bold-bridge-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "bolt-design-system",
+    "name": "Bolt Design System",
+    "url": "https://boltdesignsystem.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/bolt-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "braid-design-system",
+    "name": "Braid Design System",
+    "url": "https://seek-oss.github.io/braid-design-system/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/seek-oss/braid-design-system",
+    "screenshot": "/screenshots/braid-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "british-gas-nucleus",
+    "name": "British Gas Nucleus",
+    "url": "https://britishgas.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/british-gas-nucleus.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "buildit-gravity",
+    "name": "Buildit Gravity",
+    "url": "http://style.buildit.digital/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/buildit/gravity-ui-web",
+    "screenshot": "/screenshots/buildit-gravity.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "buzzfeed-solid",
+    "name": "BuzzFeed Solid",
+    "url": "https://solid.buzzfeed.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/buzzfeed/solid",
+    "screenshot": "/screenshots/buzzfeed-solid.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "buzzvil-design-system",
+    "name": "Buzzvil Design System",
+    "url": "https://design.buzzvil.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/buzzvil-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ca-technologies-mineral-ui",
+    "name": "CA Technologies Mineral UI",
+    "url": "https://mineral-ui.netlify.app/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/mineral-ui/mineral-ui",
+    "screenshot": "/screenshots/ca-technologies-mineral-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "cedar",
+    "name": "Cedar",
+    "url": "https://rei.github.io/rei-cedar-docs/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/rei/rei-cedar",
+    "screenshot": "/screenshots/cedar.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "chakra-ui",
+    "name": "Chakra UI",
+    "url": "https://chakra-ui.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/chakra-ui/chakra-ui",
+    "screenshot": "/screenshots/chakra-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "city-of-boston-fleet",
+    "name": "City of Boston Fleet",
+    "url": "https://patterns.boston.gov/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/CityOfBoston/digital",
+    "screenshot": "/screenshots/city-of-boston-fleet.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "cloudflare-kumo",
+    "name": "Cloudflare Kumo",
+    "url": "https://kumo-ui.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/cloudflare/kumo",
+    "screenshot": "/screenshots/cloudflare-kumo.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "co-op-experience-library",
+    "name": "Co-op Experience Library",
+    "url": "https://www.coop.co.uk/experience-library/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/co-op-experience-library.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "contentful-forma-36",
+    "name": "Contentful Forma 36",
+    "url": "https://f36.contentful.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/contentful/forma-36",
+    "screenshot": "/screenshots/contentful-forma-36.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "daisyui",
+    "name": "daisyUI",
+    "url": "https://daisyui.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/saadeghi/daisyui",
+    "screenshot": "/screenshots/daisyui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "decentraland-ui",
+    "name": "Decentraland UI",
+    "url": "https://ui.decentraland.org/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/decentraland/ui",
+    "screenshot": "/screenshots/decentraland-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "duet",
+    "name": "Duet",
+    "url": "https://www.duetds.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/duet.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ebay-skin",
+    "name": "eBay Skin",
+    "url": "https://opensource.ebay.com/evo-web/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/eBay/evo-web",
+    "screenshot": "/screenshots/ebay-skin.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "elastic-ui-framework",
+    "name": "Elastic UI Framework",
+    "url": "https://elastic.github.io/eui/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/elastic/eui",
+    "screenshot": "/screenshots/elastic-ui-framework.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "engie-fluid-design-system",
+    "name": "ENGIE Fluid Design System",
+    "url": "https://www.engie.design",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/engie-fluid-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "enel",
+    "name": "Enel",
+    "url": "https://dsyui.enelx.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/enel.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "estonia-country-design-guidelines",
+    "name": "Estonia Country Design Guidelines",
+    "url": "https://brand.estonia.ee",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/estonia-country-design-guidelines.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "evergreen",
+    "name": "Evergreen",
+    "url": "https://evergreen.surge.sh",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/segmentio/evergreen",
+    "screenshot": "/screenshots/evergreen.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "finland-toolbox",
+    "name": "Finland Toolbox",
+    "url": "https://toolbox.finland.fi/",
+    "note": "",
+    "tags": {
+      "components": false,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/finland-toolbox.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "firefox-acorn-design-system",
+    "name": "Firefox Acorn Design System",
+    "url": "https://acorn.firefox.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/firefox-acorn-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "flowbite-design-system",
+    "name": "Flowbite Design System",
+    "url": "https://www.figma.com/community/file/1179442320711977498",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/themesberg/flowbite",
+    "screenshot": "/screenshots/flowbite-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "fluent-ui",
+    "name": "Fluent UI",
+    "url": "https://developer.microsoft.com/en-us/fluentui#/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/microsoft/fluentui",
+    "screenshot": "/screenshots/fluent-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "foundation",
+    "name": "Foundation",
+    "url": "https://get.foundation/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/foundation/foundation-sites",
+    "screenshot": "/screenshots/foundation.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "foyer-design-system",
+    "name": "Foyer Design System",
+    "url": "https://design.foyer.lu/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/foyer-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "french-government-design-system",
+    "name": "French Government Design System",
+    "url": "https://www.systeme-de-design.gouv.fr/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/GouvernementFR/dsfr",
+    "screenshot": "/screenshots/french-government-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "futurelearn-pattern-library",
+    "name": "FutureLearn Pattern Library",
+    "url": "https://www.futurelearn.com/pattern-library",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/futurelearn-pattern-library.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "github-primer",
+    "name": "GitHub Primer",
+    "url": "https://primer.style/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/primer/",
+    "screenshot": "/screenshots/github-primer.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "gitlab-design-system-pajamas",
+    "name": "GitLab Design System - Pajamas",
+    "url": "https://design.gitlab.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://gitlab.com/gitlab-org/design.gitlab.com",
+    "screenshot": "/screenshots/gitlab-design-system-pajamas.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "goodbarber-design-system",
+    "name": "GoodBarber Design System",
+    "url": "https://www.goodbarber.com/uxdesign/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/goodbarber-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "google-material-design",
+    "name": "Google Material Design",
+    "url": "https://material.io/guidelines/#introduction-goals",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/material-components/material-components",
+    "screenshot": "/screenshots/google-material-design.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "gov-uk-design-system",
+    "name": "GOV.UK Design System",
+    "url": "https://www.gov.uk/design-system",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/alphagov/govuk-design-system",
+    "screenshot": "/screenshots/gov-uk-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "gympass-yoga",
+    "name": "Gympass Yoga",
+    "url": "https://gympass.github.io/yoga/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/gympass/yoga",
+    "screenshot": "/screenshots/gympass-yoga.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "hashicorp-helios",
+    "name": "HashiCorp Helios",
+    "url": "https://helios.hashicorp.design",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/hashicorp/design-system",
+    "screenshot": "/screenshots/hashicorp-helios.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "haus",
+    "name": "haus",
+    "url": "https://haus.hipuku.dev",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/hipuku/haus",
+    "screenshot": "/screenshots/haus.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "heroku-purple3",
+    "name": "Heroku Purple3",
+    "url": "https://design.herokai.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/heroku-purple3.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "heroui",
+    "name": "HeroUI",
+    "url": "https://heroui.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/heroui-inc/heroui",
+    "screenshot": "/screenshots/heroui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "hewlett-packard-grommet",
+    "name": "Hewlett Packard grommet",
+    "url": "https://grommet.github.io",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/grommet/grommet",
+    "screenshot": "/screenshots/hewlett-packard-grommet.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ibm-carbon",
+    "name": "IBM Carbon",
+    "url": "https://www.carbondesignsystem.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/ibm/carbon-components",
+    "screenshot": "/screenshots/ibm-carbon.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ibm-design-language",
+    "name": "IBM Design Language",
+    "url": "https://www.ibm.com/design/language/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/ibm-design-language.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ibm-northstar",
+    "name": "IBM Northstar",
+    "url": "https://www.ibm.com/standards/web/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/ibm-northstar.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "intuit-harmony",
+    "name": "Intuit Harmony",
+    "url": "https://designsystem.quickbooks.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/intuit-harmony.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "italia-design-system",
+    "name": "Italia Design System",
+    "url": "https://designers.italia.it/design-system/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/italia",
+    "screenshot": "/screenshots/italia-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "jb-design-system",
+    "name": "JB Design System",
+    "url": "https://javadbat.github.io/design-system",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://javadbat.github.io/design-system",
+    "screenshot": "/screenshots/jb-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "jetbrains-ring-ui",
+    "name": "JetBrains Ring UI",
+    "url": "https://jetbrains.github.io/ring-ui",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/JetBrains/ring-ui",
+    "screenshot": "/screenshots/jetbrains-ring-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "jobber",
+    "name": "Jobber",
+    "url": "https://atlantis.getjobber.com",
+    "note": "(🔱 Atlantis)",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/jobber.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "just-eat-takeaway-com-pie-design-system",
+    "name": "Just Eat Takeaway.com PIE Design System",
+    "url": "https://pie.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/justeattakeaway/pie",
+    "screenshot": "/screenshots/just-eat-takeaway-com-pie-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "kaizen",
+    "name": "Kaizen",
+    "url": "https://cultureamp.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/cultureamp/kaizen-design-system",
+    "screenshot": "/screenshots/kaizen.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "kolibri",
+    "name": "KoliBri",
+    "url": "https://public-ui.github.io/",
+    "note": "(Public-UI)",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/public-ui/kolibri/",
+    "screenshot": "/screenshots/kolibri.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "kontur",
+    "name": "Kontur",
+    "url": "https://guides.kontur.ru/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/skbkontur/retail-ui/",
+    "screenshot": "/screenshots/kontur.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "korea-design-system",
+    "name": "Korea Design System",
+    "url": "https://www.krds.go.kr",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/KRDS-uiux/krds-uiux",
+    "screenshot": "/screenshots/korea-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mail-ru-group-paradigm",
+    "name": "Mail.ru Group Paradigm",
+    "url": "https://design.mail.ru/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/mail-ru-group-paradigm.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mailchimp-content-styleguide",
+    "name": "Mailchimp Content Styleguide",
+    "url": "https://styleguide.mailchimp.com/",
+    "note": "",
+    "tags": {
+      "components": false,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/mailchimp-content-styleguide.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mantine",
+    "name": "Mantine",
+    "url": "https://mantine.dev/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/mantinedev/mantine",
+    "screenshot": "/screenshots/mantine.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "marvel-styleguide",
+    "name": "Marvel Styleguide",
+    "url": "https://marvelapp.com/styleguide",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/marvel-styleguide.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "material-minimal",
+    "name": "Material Minimal",
+    "url": "https://material-minimal.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/mdbootstrap/mdb-ui-kit",
+    "screenshot": "/screenshots/material-minimal.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "materialize-css",
+    "name": "Materialize CSS",
+    "url": "https://materializecss.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/Dogfalo/materialize",
+    "screenshot": "/screenshots/materialize-css.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mesh-design-system",
+    "name": "Mesh Design System",
+    "url": "https://www.meshdesignsystem.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/mesh-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "meta-astryx",
+    "name": "Meta Astryx",
+    "url": "https://astryx.atmeta.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/facebook/astryx",
+    "screenshot": "/screenshots/meta-astryx.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "microsoft-fluent",
+    "name": "Microsoft Fluent",
+    "url": "https://www.microsoft.com/design/fluent/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/microsoft/fluentui",
+    "screenshot": "/screenshots/microsoft-fluent.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mixpanel-design-system",
+    "name": "Mixpanel Design System",
+    "url": "https://design.mixpanel.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/mixpanel-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mongodb-design-system",
+    "name": "MongoDB Design System",
+    "url": "http://mongodb.design",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/mongodb/leafygreen-ui",
+    "screenshot": "/screenshots/mongodb-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "monzo-tone-of-voice",
+    "name": "Monzo Tone of Voice",
+    "url": "https://monzo.com/tone-of-voice/",
+    "note": "",
+    "tags": {
+      "components": false,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/monzo-tone-of-voice.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "morningstar-design-system",
+    "name": "Morningstar Design System",
+    "url": "http://designsystem.morningstar.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/morningstar-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mozilla-protocol",
+    "name": "Mozilla Protocol",
+    "url": "https://protocol.mozilla.org/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/mozilla/protocol",
+    "screenshot": "/screenshots/mozilla-protocol.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mui-base-ui",
+    "name": "MUI: Base UI",
+    "url": "https://base-ui.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/mui/base-ui",
+    "screenshot": "/screenshots/mui-base-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "mui-material-ui",
+    "name": "MUI: Material UI",
+    "url": "https://mui.com/material-ui/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/mui/material-ui",
+    "screenshot": "/screenshots/mui-material-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "nasa-web-design-system",
+    "name": "NASA Web Design System",
+    "url": "https://nasa.github.io/nasawds-site/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/nasa/nasawds",
+    "screenshot": "/screenshots/nasa-web-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "nationbuilder-radius",
+    "name": "NationBuilder Radius",
+    "url": "https://www.nationbuilder.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/nationbuilder-radius.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "nhs-uk-service-manual",
+    "name": "NHS.UK Service Manual",
+    "url": "https://service-manual.nhs.uk/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/nhs-uk-service-manual.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "nordhealth",
+    "name": "Nordhealth",
+    "url": "https://nordhealth.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/nordhealth.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "new-york-state-design-system",
+    "name": "New York State Design System",
+    "url": "https://designsystem.ny.gov/components/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/ITS-HCD/nysds",
+    "screenshot": "/screenshots/new-york-state-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "nordnet",
+    "name": "Nordnet",
+    "url": "https://brand.nordnet.se/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/nordnet.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "nvidia-elements-design-system",
+    "name": "NVIDIA Elements Design System",
+    "url": "https://nvidia.github.io/elements/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/NVIDIA/elements",
+    "screenshot": "/screenshots/nvidia-elements-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "okta-odyssey-design-system",
+    "name": "Okta Odyssey Design System",
+    "url": "https://odyssey-storybook.okta.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/okta/odyssey",
+    "screenshot": "/screenshots/okta-odyssey-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ontario-design-system",
+    "name": "Ontario Design System",
+    "url": "https://designsystem.ontario.ca/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://designsystem.ontario.ca/docs/documentation/release-notes.html#latest",
+    "screenshot": "/screenshots/ontario-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "oracle-redwood",
+    "name": "Oracle Redwood",
+    "url": "https://redwood.oracle.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/oracle-redwood.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "persona-design-system",
+    "name": "Persona Design System",
+    "url": "https://privy-open-source.github.io/design-system/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/privy-open-source/design-system",
+    "screenshot": "/screenshots/persona-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "pharos-jstor-s-design-system",
+    "name": "Pharos: JSTOR's Design System",
+    "url": "https://pharos.jstor.org",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/ithaka/pharos",
+    "screenshot": "/screenshots/pharos-jstor-s-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "pinterest-gestalt",
+    "name": "Pinterest Gestalt",
+    "url": "https://pinterest.github.io/gestalt/#/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/pinterest/gestalt",
+    "screenshot": "/screenshots/pinterest-gestalt.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "pivotal",
+    "name": "Pivotal",
+    "url": "https://pivotal-cf.github.io/pivotal-ui/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/pivotal-cf/pivotal-ui",
+    "screenshot": "/screenshots/pivotal.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "pluralsight-design-system",
+    "name": "Pluralsight Design System",
+    "url": "https://design-system.pluralsight.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/pluralsight-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "porsche-design-system",
+    "name": "Porsche Design System",
+    "url": "https://designsystem.porsche.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/porsche-design-system/porsche-design-system",
+    "screenshot": "/screenshots/porsche-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "priceline-design-system",
+    "name": "Priceline Design System",
+    "url": "https://priceline.github.io/design-system/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/priceline/design-system",
+    "screenshot": "/screenshots/priceline-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "pusher-chameleon",
+    "name": "Pusher Chameleon",
+    "url": "https://pusher.github.io/chameleon/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/pusher/chameleon",
+    "screenshot": "/screenshots/pusher-chameleon.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "radix",
+    "name": "Radix",
+    "url": "https://www.radix-ui.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/radix-ui",
+    "screenshot": "/screenshots/radix.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "rambler",
+    "name": "Rambler",
+    "url": "https://rambler-digital-solutions.github.io/rambler-ui/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/rambler-digital-solutions/rambler-ui",
+    "screenshot": "/screenshots/rambler.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "reshaped",
+    "name": "Reshaped",
+    "url": "https://reshaped.so",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/reshaped.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "salesforce-lightning-design-system",
+    "name": "Salesforce Lightning Design System",
+    "url": "https://www.lightningdesignsystem.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/salesforce-ux/design-system",
+    "screenshot": "/screenshots/salesforce-lightning-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "sage-by-kajabi",
+    "name": "Sage by Kajabi",
+    "url": "https://sage.kajabi.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/Kajabi/sage-lib",
+    "screenshot": "/screenshots/sage-by-kajabi.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "sap-fiori",
+    "name": "SAP Fiori",
+    "url": "https://experience.sap.com/fiori-design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/sap-fiori.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "sap-fundamental",
+    "name": "SAP Fundamental",
+    "url": "https://github.com/SAP/fundamental",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/SAP/fundamental",
+    "screenshot": "/screenshots/sap-fundamental.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "sap-openui",
+    "name": "SAP OpenUI",
+    "url": "https://github.com/SAP/openui5",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/SAP/openui5",
+    "screenshot": "/screenshots/sap-openui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "scania-digital-design-system",
+    "name": "Scania Digital Design System",
+    "url": "https://tegel.scania.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/scania-digital-design-system/tegel",
+    "screenshot": "/screenshots/scania-digital-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "seeds",
+    "name": "Seeds",
+    "url": "https://sproutsocial.com/seeds",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/seeds.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "semi-design",
+    "name": "Semi Design",
+    "url": "https://semi.design/en-US",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/DouyinFE/semi-design",
+    "screenshot": "/screenshots/semi-design.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "semrush-intergalactic-design-system",
+    "name": "Semrush Intergalactic Design System",
+    "url": "https://i.semrush.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/semrush/intergalactic",
+    "screenshot": "/screenshots/semrush-intergalactic-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "shoelace",
+    "name": "Shoelace",
+    "url": "https://shoelace.style",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/shoelace-style/shoelace",
+    "screenshot": "/screenshots/shoelace.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "shopify-polaris",
+    "name": "Shopify Polaris",
+    "url": "https://polaris.shopify.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/Shopify/polaris",
+    "screenshot": "/screenshots/shopify-polaris.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "shadcn-ui",
+    "name": "Shadcn/ui",
+    "url": "https://ui.shadcn.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/shadcn-ui",
+    "screenshot": "/screenshots/shadcn-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "siemens-ix",
+    "name": "Siemens iX",
+    "url": "https://ix.siemens.io/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/siemens/ix",
+    "screenshot": "/screenshots/siemens-ix.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "singapore-government-design-system",
+    "name": "Singapore Government Design System",
+    "url": "https://www.designsystem.tech.gov.sg/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/govtechsg/sgds",
+    "screenshot": "/screenshots/singapore-government-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "stacks-stack-overflow",
+    "name": "Stacks – Stack Overflow",
+    "url": "https://stackoverflow.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/StackExchange/Stacks",
+    "screenshot": "/screenshots/stacks-stack-overflow.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "strapi-design-system",
+    "name": "Strapi Design System",
+    "url": "https://design-system.strapi.io/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/strapi/design-system",
+    "screenshot": "/screenshots/strapi-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "teambition-clarity-design",
+    "name": "Teambition Clarity Design",
+    "url": "https://design.teambition.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/teambition-clarity-design.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "telef-nica-m-stica",
+    "name": "Telefónica Mística",
+    "url": "https://brandfactory.telefonica.com/mistica",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/Telefonica/mistica",
+    "screenshot": "/screenshots/telef-nica-m-stica.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "twilio-paste",
+    "name": "Twilio Paste",
+    "url": "https://paste.twilio.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/twilio-labs/paste",
+    "screenshot": "/screenshots/twilio-paste.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "uber-s-base-web",
+    "name": "Uber's Base Web",
+    "url": "https://baseweb.design/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/uber-web/baseui",
+    "screenshot": "/screenshots/uber-s-base-web.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ubuntu-vanilla-framework",
+    "name": "Ubuntu Vanilla framework",
+    "url": "https://vanillaframework.io/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/canonical-web-and-design/vanilla-framework",
+    "screenshot": "/screenshots/ubuntu-vanilla-framework.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "uiverse",
+    "name": "Uiverse",
+    "url": "https://uiverse.io",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/uiverse-io/galaxy",
+    "screenshot": "/screenshots/uiverse.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "untitled-ui",
+    "name": "Untitled UI",
+    "url": "https://www.untitledui.com/react/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/untitleduico/react/",
+    "screenshot": "/screenshots/untitled-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "usva",
+    "name": "usva.",
+    "url": "https://usva.build",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/matt-pasek/usva",
+    "screenshot": "/screenshots/usva.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "u-s-web-design-standards",
+    "name": "U.S. Web Design Standards",
+    "url": "https://designsystem.digital.gov/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/uswds/uswds",
+    "screenshot": "/screenshots/u-s-web-design-standards.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "u-s-cms-gov-design-system",
+    "name": "U.S. CMS.gov Design System",
+    "url": "https://design.cms.gov/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/u-s-cms-gov-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "vibe",
+    "name": "Vibe",
+    "url": "https://style.monday.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/mondaycom/vibe",
+    "screenshot": "/screenshots/vibe.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "vtex-styleguide",
+    "name": "VTEX Styleguide",
+    "url": "https://styleguide.vtex.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": true
+    },
+    "sourceUrl": "https://github.com/vtex/styleguide",
+    "screenshot": "/screenshots/vtex-styleguide.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "vue-design-system",
+    "name": "Vue Design System",
+    "url": "https://vueds.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/viljamis/vue-design-system",
+    "screenshot": "/screenshots/vue-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "ray-by-wework",
+    "name": "Ray by WeWork",
+    "url": "https://ray.wework.com",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/wework/ray",
+    "screenshot": "/screenshots/ray-by-wework.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "welcome-ui",
+    "name": "Welcome UI",
+    "url": "http://www.welcome-ui.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/WTTJ/welcome-ui",
+    "screenshot": "/screenshots/welcome-ui.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "west-midlands-network-design-system",
+    "name": "West Midlands Network Design System",
+    "url": "https://designsystem.wmnetwork.co.uk/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/wmcadigital/wmn-design-system",
+    "screenshot": "/screenshots/west-midlands-network-design-system.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "wix-style-react",
+    "name": "Wix Style React",
+    "url": "https://www.wix-style-react.com/storybook/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/wix-style-react.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "url": "https://vercel.com/geist",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/vercel.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "workday-canvas",
+    "name": "Workday Canvas",
+    "url": "https://design.workday.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/Workday/canvas-kit",
+    "screenshot": "/screenshots/workday-canvas.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "yelp-styleguide",
+    "name": "Yelp Styleguide",
+    "url": "https://www.yelp.com/styleguide",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": true,
+      "designersKit": false
+    },
+    "sourceUrl": null,
+    "screenshot": "/screenshots/yelp-styleguide.webp",
+    "hasScreenshot": false
+  },
+  {
+    "slug": "zendesk-garden",
+    "name": "Zendesk Garden",
+    "url": "https://garden.zendesk.com/",
+    "note": "",
+    "tags": {
+      "components": true,
+      "voiceAndTone": false,
+      "designersKit": false
+    },
+    "sourceUrl": "https://github.com/zendeskgarden",
+    "screenshot": "/screenshots/zendesk-garden.webp",
+    "hasScreenshot": false
+  }
+]
