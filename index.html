@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome Design Systems — Visual Gallery</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero-inner">
+        <span class="badge">Curated Collection</span>
+        <h1>Awesome Design Systems</h1>
+        <p class="subtitle">
+          Click any landing page preview to expand it to fullscreen and jump straight into the live design system.
+        </p>
+        <div class="controls">
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search design systems (e.g., Carbon, Spectrum, Polaris)..."
+            autocomplete="off"
+          />
+          <div class="filter-pills" id="filter-pills">
+            <button type="button" class="pill active" data-tag="all">All</button>
+            <button type="button" class="pill" data-tag="components">Components</button>
+            <button type="button" class="pill" data-tag="voiceAndTone">Voice &amp; Tone</button>
+            <button type="button" class="pill" data-tag="designersKit">Designers Kit</button>
+            <button type="button" class="pill" data-tag="source">Open Source</button>
+          </div>
+        </div>
+        <div class="meta-bar">
+          <span id="count-label">Loading systems...</span>
+          <a href="https://github.com/alexpate/awesome-design-systems" target="_blank" rel="noreferrer">
+            Upstream Repository ↗
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main class="gallery-container">
+      <div id="gallery-grid" class="gallery-grid" aria-live="polite"></div>
+    </main>
+
+    <div id="zoom-overlay" class="zoom-overlay" hidden>
+      <div class="zoom-progress"></div>
+      <div id="zoom-card" class="zoom-card"></div>
+      <div class="zoom-status" id="zoom-status">Opening live site...</div>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
